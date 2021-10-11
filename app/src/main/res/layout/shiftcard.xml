@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+     <LinearLayout
+         xmlns:android="http://schemas.android.com/apk/res/android"
+         xmlns:app="http://schemas.android.com/apk/res-auto"
+         xmlns:tools="http://schemas.android.com/tools"
+         android:layout_width="match_parent"
+         android:layout_height="200dp"
+            android:orientation="horizontal"
+            android:background="@drawable/rectanglebg"
+            >
+            <TextView
+                android:id="@+id/login"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="jjhhhhh"
+                android:textSize="25sp" />
+
+         <View
+             android:layout_width="4dp"
+             android:layout_height="match_parent"
+
+             android:background="@color/black"/>
+
+         <TextView
+                android:id="@+id/startdate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="kkkkk"/>
+         <View
+             android:layout_width="4dp"
+             android:layout_height="match_parent"
+
+             android:background="@color/black"/>
+            <TextView
+                android:id="@+id/enddate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="jjhhhhh"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/serial"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="kkkkk"/>
+         <View
+             android:layout_width="4dp"
+             android:layout_height="match_parent"
+
+             android:background="@color/black"/>
+            <TextView
+                android:id="@+id/sartitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="jjhhhhh"
+                android:textSize="25sp" />
+         <View
+             android:layout_width="4dp"
+             android:layout_height="match_parent"
+
+             android:background="@color/black"/>
+
+            <TextView
+                android:id="@+id/shiftdate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="kkkkk"/>
+         <View
+             android:layout_width="4dp"
+             android:layout_height="match_parent"
+
+             android:background="@color/black"/>
+            <TextView
+                android:id="@+id/partitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="jjhhhhh"
+                android:textSize="25sp" />
+
+
+        </LinearLayout>
